@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using ZooplaProject.Helper;
 
-namespace ZooplaProject
+namespace ZooplaProject.Pages
 {
-    public class HomePage : BaseClass
+    public class ResultPage : BaseClass
     {
     }
 }
