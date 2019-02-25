@@ -76,6 +76,8 @@
       <DependentUpon>UserCanSearchAHouseForSale.feature</DependentUpon>
     </Compile>
     <Compile Include="Helper\BaseClass.cs" />
+    <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Pages\ResultPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StepDefiniton\ZooplaToBuySteps.cs" />
     <Compile Include="ZooplaHooks.cs" />
